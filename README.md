@@ -1,5 +1,7 @@
 # casual-markdown-cv
 
+https://raw.githack.com/Phazed98/Resume/main/resume-blue.html
+
 [casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv) is a minimal way to create markdown resume and available online (github-page or other static web hosting)
 
 It is quite annoying to maintain resume in multiple format, MS Word, PDF, TXT as well as wanna to have an HTML format available online. 
